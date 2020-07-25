@@ -12,3 +12,5 @@ Group members also have the facility of sending images in the chats section.
 ![attendance](https://i.imgur.com/dp3X7Aul.jpg)
 ![main](https://i.imgur.com/VO85YY3l.jpg)
 ![create](https://i.imgur.com/dQQSvqRl.jpg)
+![Image Fragment](https://i.imgur.com/qTVmGBjl.jpg)
+![Menu](https://i.imgur.com/hKoCGdFl.jpg)
