@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "720492998458",
+    "firebase_url": "https://class-manager-68fe4.firebaseio.com",
+    "project_id": "class-manager-68fe4",
+    "storage_bucket": "class-manager-68fe4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720492998458:android:67abdfa4deb83edafaaa03",
+        "android_client_info": {
+          "package_name": "com.android.wefour.classmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720492998458-k740ddmo62ma7rir3lci5vf8prujmthp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMVZ5Pl1Z9la2NRo3frY5tL6JQD6ar5K0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720492998458-k740ddmo62ma7rir3lci5vf8prujmthp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
